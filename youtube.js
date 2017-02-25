@@ -67,8 +67,7 @@ YT = {
         return console.log("Finished downloading video!".green);
       });
     });
-  },
-  debug: function(options) {}
+  }
 };
 
 module.exports = YT;

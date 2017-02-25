@@ -66,7 +66,4 @@ YT =
 
 				console.log "Finished downloading video!".green
 
-	debug: (options)->
-
-
 module.exports = YT
