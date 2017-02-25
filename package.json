@@ -1,0 +1,19 @@
+{
+  "name": "plethora-atlas-contrib-youtube",
+  "version": "0.1.0",
+  "description": "YouTube Utilities for Plethora Atlas Project",
+  "main": "youtube.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "kostasx <minaidisk@gmail.com>",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/kostasx/plethora-atlas-contrib-youtube"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "progress": "^1.1.8",
+    "ytdl-core": "^0.9.1"
+  }
+}
